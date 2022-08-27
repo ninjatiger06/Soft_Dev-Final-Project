@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Backgrounds/Level1/1-Layer1.png
+    - Assets/Backgrounds/Level1/1-Layer1.png.meta
+    - Assets/Backgrounds/Level1/1-Layer2.png
+    - Assets/Backgrounds/Level1/1-Layer2.png.meta
+    - Assets/Backgrounds/Level1/1-Layer3.png
+    - Assets/Backgrounds/Level1/1-Layer3.png.meta
+    - Assets/Backgrounds/Level1/1-Layer4.png
+    - Assets/Backgrounds/Level1/1-Layer4.png.meta
+    - Assets/Backgrounds/Level1/1-Layer4Full.png
+    - Assets/Backgrounds/Level1/1-Layer4Full.png.meta
+    - Assets/Backgrounds/Level2(Cancelled).meta
+    - Assets/Backgrounds/Level2.meta
+    - Assets/Backgrounds/Level2/2-Layer1.png
+    - Assets/Backgrounds/Level2/2-Layer1.png.meta
+    - Assets/Backgrounds/Level2/2-Layer1Full.png
+    - Assets/Backgrounds/Level2/2-Layer1Full.png.meta
+    - Assets/Backgrounds/Level2/2-Layer2.png
+    - Assets/Backgrounds/Level2/2-Layer2.png.meta
+    - Assets/Backgrounds/Level2/2-Layer2Full.png
+    - Assets/Backgrounds/Level2/2-Layer2Full.png.meta
+    - Assets/Backgrounds/Level2/2-Layer3.png
+    - Assets/Backgrounds/Level2/2-Layer3.png.meta
+    - Assets/Backgrounds/Level2/cloud1.png
+    - Assets/Backgrounds/Level2/cloud1.png.meta
+    - Assets/Backgrounds/Level2/cloud2.png
+    - Assets/Backgrounds/Level2/cloud2.png.meta
+    - Assets/Backgrounds/Level2/cloud3.png
+    - Assets/Backgrounds/Level2/cloud3.png.meta
+    - Assets/Backgrounds/Level2/cloud4.png
+    - Assets/Backgrounds/Level2/cloud4.png.meta
+    - Assets/Backgrounds/Level2/cloud5.png
+    - Assets/Backgrounds/Level2/cloud5.png.meta
+    - Assets/Backgrounds/Level2/cloud6.png
+    - Assets/Backgrounds/Level2/cloud6.png.meta
+    - Assets/Backgrounds/Level2/cloud7.png
+    - Assets/Backgrounds/Level2/cloud7.png.meta
+    - Assets/Backgrounds/Level2/cloud8.png
+    - Assets/Backgrounds/Level2/cloud8.png.meta
+    - Assets/Backgrounds/Level3.meta
+    - Assets/Backgrounds/Level3/3-Layer1.png
+    - Assets/Backgrounds/Level3/3-Layer1.png.meta
+    - Assets/Backgrounds/Level3/3-Layer2.png
+    - Assets/Backgrounds/Level3/3-Layer2.png.meta
+    - Assets/Backgrounds/Level3/3-Layer2TreesOnly.png
+    - Assets/Backgrounds/Level3/3-Layer2TreesOnly.png.meta
+    - Assets/Backgrounds/Level3/3-Layer3.png
+    - Assets/Backgrounds/Level3/3-Layer3.png.meta
+    - Assets/Backgrounds/Level3/3-Layer4.png
+    - Assets/Backgrounds/Level3/3-Layer4.png.meta
+    - Assets/Backgrounds/Level3/3-Layer5.png
+    - Assets/Backgrounds/Level3/3-Layer5.png.meta
+    - Assets/Backgrounds/Level3/3-Layer6.png
+    - Assets/Backgrounds/Level3/3-Layer6.png.meta
+    - Assets/Backgrounds/Level3/3-Layer7.png
+    - Assets/Backgrounds/Level3/3-Layer7.png.meta
+    - Assets/Backgrounds/Level3_2.meta
+    - Assets/Backgrounds/Level3_2/Level3_2-Layer1.png
+    - Assets/Backgrounds/Level3_2/Level3_2-Layer1.png.meta
+    - Assets/Backgrounds/Level3_2/Level3_2-Layer2.png
+    - Assets/Backgrounds/Level3_2/Level3_2-Layer2.png.meta
+    - Assets/Backgrounds/Level3_2/Level3_2-Layer3.png
+    - Assets/Backgrounds/Level3_2/Level3_2-Layer3.png.meta
+    - Assets/Backgrounds/Level3_2/Level3_2-Layer4.png
+    - Assets/Backgrounds/Level3_2/Level3_2-Layer4.png.meta
+    - Assets/Backgrounds/Level3_2/Level3_2-Layer5 NoMoon.png
+    - Assets/Backgrounds/Level3_2/Level3_2-Layer5 NoMoon.png.meta
+    - Assets/Backgrounds/Level3_2/Level3_2-Layer5.png
+    - Assets/Backgrounds/Level3_2/Level3_2-Layer5.png.meta
+    - Assets/Backgrounds/Level4/4-Layer1.png
+    - Assets/Backgrounds/Level4/4-Layer1.png.meta
+    - Assets/Backgrounds/Level4/4-Layer2.png
+    - Assets/Backgrounds/Level4/4-Layer2.png.meta
+    - Assets/Backgrounds/Level4/4-Layer3.png
+    - Assets/Backgrounds/Level4/4-Layer3.png.meta
+    - Assets/Backgrounds/Level4/4-Layer4.png
+    - Assets/Backgrounds/Level4/4-Layer4.png.meta
+    - Assets/MainMixer.mixer
+    - Assets/Scenes/Level 1.unity
+    - Assets/Scenes/Level 2.unity
+    - Assets/Scenes/Level 2.unity.meta
+    - Assets/Scenes/Level 3.unity
+    - Assets/Scenes/Level 3.unity.meta
+    - Assets/Scenes/Level 4.unity
+    - Assets/Scenes/Level 4.unity.meta
+    - Assets/Scenes/Main Menu.unity
+    - Assets/Scripts/Enemy/EnemyCollision.cs
+    - Assets/Scripts/GameOver2.cs
+    - Assets/Scripts/InstructionsMenu.cs
+    - Assets/Scripts/InstructionsMenu.cs.meta
+    - Assets/Scripts/Layer1Replinish.cs
+    - Assets/Scripts/Layer1Replinish.cs.meta
+    - Assets/Scripts/Player/PlayerCollision.cs
+    - Assets/Scripts/Player/PlayerShooting.cs
+    - Assets/Scripts/ScoreText.cs
+    - Assets/Scripts/ScoreText.cs.meta
+    - Assets/Scripts/SettingsMenu.cs
+    - Assets/Scripts/WinCondition.cs
+    - Assets/Sound Effects/ExplosionCrop.wav
+    - Assets/Sound Effects/ExplosionCrop.wav.meta
+    - Assets/Sprites/Instructions.meta
+    - Assets/Sprites/Instructions/Instructions Images1Crop.png
+    - Assets/Sprites/Instructions/Instructions Images1Crop.png.meta
+    - Assets/Sprites/Instructions/Instructions Images2Crop.png
+    - Assets/Sprites/Instructions/Instructions Images2Crop.png.meta
+    - Assets/Sprites/Instructions/Instructions Images2_2.png
+    - Assets/Sprites/Instructions/Instructions Images2_2.png.meta
+    - Assets/Sprites/Instructions/Instructions Images3Crop.png
+    - Assets/Sprites/Instructions/Instructions Images3Crop.png.meta
+    - Assets/Sprites/Instructions/Instructions Images3_2.png
+    - Assets/Sprites/Instructions/Instructions Images3_2.png.meta
+    - Assets/Sprites/Instructions/Instructions Images4Crop.png
+    - Assets/Sprites/Instructions/Instructions Images4Crop.png.meta
+    - Assets/Sprites/Instructions/Instructions Images5Crop.png
+    - Assets/Sprites/Instructions/Instructions Images5Crop.png.meta
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold
+      SDF.asset
+    - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/InputManager.asset
+    - 
+    m_Values: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
